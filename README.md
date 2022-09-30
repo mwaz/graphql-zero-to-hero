@@ -1,4 +1,4 @@
-# graphql-zero-to-hero
+# Graphql Zero To Hero
 
 Demistyifying GraphQL API's tutorial demo app
 
