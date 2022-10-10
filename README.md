@@ -1,16 +1,41 @@
-# Graphql Zero To Hero
+# GraphQL Zero To Hero
 
-Demistyifying GraphQL API's tutorial demo app
+[![CircleCI](https://circleci.com/gh/mwaz/graphql-zero-to-hero.svg?style=svg)](https://circleci.com/gh/mwaz/graphql-zero-to-hero)
 
-Setup instructions.
-1. Cloning the repo
-   ```bash
-   git clone https://github.com/mwaz/graphql-zero-to-hero.git
-   cd graphql-zero-to-hero
-   ```   
-2. Installing dependencies
-   `npm install`
-3. Starting the server
-   `npm start` or `npm run dev`
-4. Running tests
-   `npm test`
+<p align="center"><img src="https://avatars3.githubusercontent.com/u/59034516"></p>
+
+An Application to create and test GraphQL API's
+
+## Clone the repository:
+
+run the following command on your terminal to clone the repository:
+
+```bash
+git clone git@github.com:mwaz/graphql-zero-to-hero.git
+
+cd graphql-zero-to-hero
+```
+
+## Running tests 
+
+```bash
+npm test
+```
+
+## Running application 
+
+```bash
+npm start
+```
+## Details
+
+This repo is built following a tutorial published on CircleCI blog under the CircleCI Guest Writer Program.
+
+-   Blog post: [  GraphQL Zero To Hero][blog]
+-   Author's GitHub profile: [Waweru Mwaura][author]
+
+### About CircleCI Guest Writer Program
+
+
+[blog]: https://circleci.com/blog/testing-react-component-with-cypress/
+[author]: https://github.com/mwaz
